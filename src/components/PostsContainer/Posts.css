@@ -54,3 +54,9 @@
   margin: 15px 0px;
   font-size: 16px;
 }
+i.far.fa-heart:hover {
+  color: red;
+}
+i.far.fa-comment:hover {
+  color: blue;
+}
